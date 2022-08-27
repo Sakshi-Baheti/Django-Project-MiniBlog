@@ -1,0 +1,31 @@
+body{
+    background-color: #ffcc00;
+    color: antiquewhite;
+}
+
+.jumbo-color {
+background-color: #ffff4d;
+}
+
+.nav-text{
+    color: #331a00;
+    font-weight: bolder;
+}
+
+form{
+    color: #331a00;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.form-control{
+background-color: #ffffb3;
+}
+
+.lead{
+font-size : 10 px;
+line-height: 1 px;
+font-family: Calibri;
+text-align: justify;
+}
+
